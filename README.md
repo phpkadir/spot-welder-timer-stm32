@@ -20,3 +20,5 @@ mot have 20 watts 20joules of energy pump for every 20ms time.
 if you need to melt a spot weld area you can calculate energy and test for correct parameters. record parameters to your paper list and use.
 i can spot weld 18650 batteries with 0.2mm nickel shhets 80ms+ pulses 
 you can change nokia screen with 2x16 character lcd. with its libraries if you want.
+
+all project files in zip file.
