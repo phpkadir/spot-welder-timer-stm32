@@ -3,10 +3,10 @@ battery and thin sheet metal spot welder timer with stm32f103c8 microcontroller 
 
 needs
 
-1.. a modified transformer with output capability more than 700 watts in power.  low voltage output side should be 4-5 volts and have thick wire coil windings up to 16mm2  copper conductor cross sectional area. i use a 900 watts microwave owen transformer have original primary windings and 4 turns 16mm2 
+1. a modified transformer with output capability more than 700 watts in power.  low voltage output side should be 4-5 volts and have thick wire coil windings up to 16mm2  copper conductor cross sectional area. i use a 900 watts microwave owen transformer have original primary windings and 4 turns 16mm2 
 copper windings. 
 
-2.. an optocoupler isolated solid state relay module. i use 80 amps zenli soft switching solid state relay. 
+2. an optocoupler isolated solid state relay module. i use 80 amps zenli soft switching solid state relay. 
 
 3. a stm32f103c8t6 blue pill microcontroller board.
 
